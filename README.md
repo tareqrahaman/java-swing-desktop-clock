@@ -1,7 +1,6 @@
 # Minimalist Clock with JAVA SWING
 
-![Digital Clock](https://github.com/tareqrahaman/java-swing-desktop-clock/assets/147906385/b9e0574a-7b41-49a1-9116-183985551f04
-)
+![Digital Clock](https://github.com/tareqrahaman/java-swing-desktop-clock/assets/147906385/a172121e-092a-4b95-8fa8-00d77acbd808)
 
 ## Description
 This project is a digital clock built using Java Swing technology. It displays the current time and date, providing a simple yet elegant interface. The clock updates in real-time and is a great example of using Java Swing for GUI applications.
@@ -23,8 +22,8 @@ This project is a digital clock built using Java Swing technology. It displays t
    cd javac clock.java
    cd Java clock
 
-##Usage 
-* Run the 'clock' class to start the application
+## Usage 
+* Run the **'clock'** class to start the application
 * The GUI will display the current time and date automatically.
 
    
