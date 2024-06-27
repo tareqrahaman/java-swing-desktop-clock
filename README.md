@@ -26,5 +26,7 @@ This project is a digital clock built using Java Swing technology. It displays t
 * Run the **'clock'** class to start the application
 * The GUI will display the current time and date automatically.
 
+## Contact
+For any questions or suggestions, feel free to contact me at **tareqrahaman565@gmail.com**
    
    
