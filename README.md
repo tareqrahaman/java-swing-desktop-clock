@@ -16,11 +16,11 @@ This project is a digital clock built using Java Swing technology. It displays t
    git clone https://github.com/yourusername/digital-clock-swing.git
 2. **Navigate to the Repository**
    ```bash
-   cd java-swing-desktop-clock
+   cd java-swing-desktop-clock/src
 3. **Compile and Run the Project**
    ```bash
-   cd javac clock.java
-   cd Java clock
+   javac clock.java
+   Java clock
 
 ## Usage 
 * Run the **'clock'** class to start the application
