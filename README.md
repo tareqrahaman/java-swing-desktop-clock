@@ -13,7 +13,7 @@ This project is a digital clock built using Java Swing technology. It displays t
 ## Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/digital-clock-swing.git
+   git clone https://github.com/tareqrahaman/digital-clock-swing.git
 2. **Navigate to the Repository**
    ```bash
    cd java-swing-desktop-clock/src
